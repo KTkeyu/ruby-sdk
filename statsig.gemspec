@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
     s.homepage    = 'https://rubygems.org/gems/statsig'
     s.license     = 'ISC'
     s.files       = Dir['lib/**/*']
-    s.required_ruby_version = '>= 2.5.9'
-    s.rubygems_version = '>= 2.5.9'
+    s.required_ruby_version = '>= 2.5.0'
+    s.rubygems_version = '>= 2.5.0'
     s.add_development_dependency "bundler", "~> 2.1"
     s.add_development_dependency "webmock", "~> 3.13"
     s.add_development_dependency "minitest", "~> 5.14"
